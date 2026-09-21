@@ -1,0 +1,188 @@
+{
+  "nav": {
+    "home": "Home",
+    "portfolio": "Portfolio",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact",
+    "book": "Book now",
+    "legal": "Legal Notice"
+  },
+  "hero": {
+    "greeting": "I AM",
+    "name": "ELVIS KPOSSATON",
+    "role": "PROFESSIONAL PHOTOGRAPHER",
+    "scroll": "Explore"
+  },
+  "universe": {
+    "title": "My Worlds",
+    "subtitle": "Explore each facet of my photographic work",
+    "discover": "Explore"
+  },
+  "philosophy": {
+    "title": "My Vision",
+    "text": "Photography is not merely capturing images, but a pursuit of raw emotions and suspended moments. Every gaze, shadow, and ray of light tells a singular story. My approach favors sincerity, purity of lines, and timeless elegance to elevate what is often unnoticed at first glance.",
+    "btn": "Discover my journey"
+  },
+  "stats": {
+    "title": "In Figures",
+    "subtitle": "A journey built on passion and excellence",
+    "years": "Years of experience",
+    "projects": "Completed projects",
+    "awards": "Awards & Publications",
+    "satisfaction": "Client satisfaction"
+  },
+  "testimonials": {
+    "title": "Testimonials",
+    "subtitle": "Trusted by clients worldwide"
+  },
+  "cta": {
+    "title": "Let's create your next memories together",
+    "subtitle": "Have a project in mind? Let's bring your ideas to life with precision and style.",
+    "button": "Let's talk about your project"
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "subtitle": "A curated selection of photographic and cinematic works",
+    "all": "All",
+    "videoBadge": "VIDEO",
+    "location": "Location",
+    "date": "Date"
+  },
+  "services": {
+    "title": "Services",
+    "subtitle": "Bespoke packages for every project",
+    "intro": "Every service is crafted to deliver a high-end experience, from preparation to the final image delivery.",
+    "includes": "What's included",
+    "book": "Book this service",
+    "custom_title": "A custom need?",
+    "custom_text": "Every project is unique. Share your vision and I'll design an offer that fits your requirements.",
+    "custom_btn": "Request a quote",
+    "process_title": "My process",
+    "process_subtitle": "A clear workflow, from first contact to final delivery",
+    "process": {
+      "step1": {
+        "title": "First contact",
+        "text": "We discuss your project, your ideas and your constraints."
+      },
+      "step2": {
+        "title": "Preparation",
+        "text": "Location scouting, moodboard, planning and creative direction validation."
+      },
+      "step3": {
+        "title": "Photo session",
+        "text": "On the day, I capture every moment with care and precision."
+      },
+      "step4": {
+        "title": "Delivery",
+        "text": "Selection, high-end retouching and delivery via private gallery."
+      }
+    },
+    "packages": {
+      "portrait": {
+        "name": "Portrait",
+        "price": "From $150",
+        "duration": "1h – 2h",
+        "features": [
+          "Studio or outdoor session",
+          "20 retouched HD photos",
+          "Private online gallery",
+          "Delivery within 7 days"
+        ]
+      },
+      "mariage": {
+        "name": "Wedding",
+        "price": "From $850",
+        "duration": "Full day",
+        "features": [
+          "Ceremony & reception coverage",
+          "150+ retouched HD photos",
+          "Premium photo album (optional)",
+          "Private gallery + USB drive",
+          "Delivery within 3 weeks"
+        ],
+        "featured": true
+      },
+      "corporate": {
+        "name": "Corporate",
+        "price": "On quote",
+        "duration": "As needed",
+        "features": [
+          "Team portraits",
+          "Event coverage",
+          "Product & premises photography",
+          "Commercial usage rights included"
+        ]
+      }
+    }
+  },
+  "about": {
+    "title": "About",
+    "subtitle": "The eye behind the lens",
+    "intro": "Passionate photographer based in Cotonou, I turn every moment into a timeless memory. From fashion to weddings, corporate and portrait, my work explores light, emotion and authenticity.",
+    "journey_title": "My journey",
+    "journey_text": "For over 8 years, I've worked with brands, creators and demanding individuals. Every project is a new story to tell, an aesthetic to build, an emotion to capture.",
+    "values_title": "My values",
+    "values": {
+      "vision": {
+        "title": "Vision",
+        "text": "A clear artistic direction for every project."
+      },
+      "excellence": {
+        "title": "Excellence",
+        "text": "High-end delivery, down to the smallest detail."
+      },
+      "ecoute": {
+        "title": "Listening",
+        "text": "Understanding your world before elevating it."
+      },
+      "engagement": {
+        "title": "Commitment",
+        "text": "A rigorous presence from brief to final delivery."
+      }
+    },
+    "experience": "Years of experience",
+    "awards": "Awards & Publications",
+    "shoots": "Completed projects",
+    "cta_title": "Let's work together",
+    "cta_text": "A project, an idea, a visual need? Let's talk."
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Let's talk about your project",
+    "intro": "An event, a shoot, a collaboration? Fill in the form or reach out directly.",
+    "form": {
+      "name": "Full name",
+      "email": "Email address",
+      "phone": "Phone (optional)",
+      "service": "Type of service",
+      "message": "Tell me about your project...",
+      "send": "Send message",
+      "sending": "Sending...",
+      "success": "Message sent, thank you! I'll get back to you soon.",
+      "error": "Something went wrong. Try again or email me directly.",
+      "select_service": "— Select —",
+      "options": {
+        "mariage": "Wedding",
+        "portrait": "Portrait",
+        "mode": "Fashion / Editorial",
+        "corporate": "Corporate",
+        "evenement": "Event",
+        "autre": "Other"
+      }
+    },
+    "info": {
+      "location_title": "Location",
+      "location": "Cotonou, Benin",
+      "email_title": "Email",
+      "phone_title": "Phone",
+      "hours_title": "Availability",
+      "hours": "Mon. — Sat. · 9am — 7pm"
+    },
+    "social_title": "On social media"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "designed_with": "Art Portfolio"
+  }
+}

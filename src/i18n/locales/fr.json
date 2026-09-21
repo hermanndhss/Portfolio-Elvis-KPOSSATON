@@ -1,0 +1,188 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "portfolio": "Portfolio",
+    "services": "Prestations",
+    "about": "À propos",
+    "contact": "Contact",
+    "book": "Réserver",
+    "legal": "Mentions Légales"
+  },
+  "hero": {
+    "greeting": "JE SUIS",
+    "name": "ELVIS KPOSSATON",
+    "role": "PHOTOGRAPHE PROFESSIONNEL",
+    "scroll": "Découvrir"
+  },
+  "universe": {
+    "title": "Mes Univers",
+    "subtitle": "Explorez chaque facette de mon travail photographique",
+    "discover": "Découvrir"
+  },
+  "philosophy": {
+    "title": "Ma Vision",
+    "text": "La photographie n'est pas simplement une capture d'images, mais une quête d'émotions brutes et d'instants suspendus. Chaque regard, chaque ombre et chaque rayon de lumière racontent une histoire unique. Mon approche privilégie la sincérité, la pureté des lignes et l'élégance intemporelle pour sublimer ce qui est souvent invisible au premier regard.",
+    "btn": "Découvrir mon histoire"
+  },
+  "stats": {
+    "title": "En Chiffres",
+    "subtitle": "Un parcours forgé par la passion et l'exigence",
+    "years": "Années d'expérience",
+    "projects": "Projets réalisés",
+    "awards": "Prix & Publications",
+    "satisfaction": "Satisfaction client"
+  },
+  "testimonials": {
+    "title": "Témoignages",
+    "subtitle": "Ils m'ont fait confiance"
+  },
+  "cta": {
+    "title": "Créons ensemble vos prochains souvenirs",
+    "subtitle": "Un projet en tête ? Donnons vie à vos idées avec élégance et précision.",
+    "button": "Parlons de votre projet"
+  },
+  "portfolio": {
+    "title": "Portfolio",
+    "subtitle": "Une sélection de mes travaux photographiques et cinématographiques",
+    "all": "Tous",
+    "videoBadge": "VIDÉO",
+    "location": "Lieu",
+    "date": "Date"
+  },
+  "services": {
+    "title": "Prestations",
+    "subtitle": "Des formules sur-mesure pour chaque projet",
+    "intro": "Chaque prestation est pensée pour offrir une expérience haut de gamme, de la préparation à la livraison finale de vos images.",
+    "includes": "Ce qui est inclus",
+    "book": "Réserver cette prestation",
+    "custom_title": "Un besoin sur-mesure ?",
+    "custom_text": "Chaque projet est unique. Décrivez-moi votre vision, je construis une offre adaptée à vos exigences.",
+    "custom_btn": "Demander un devis",
+    "process_title": "Mon processus",
+    "process_subtitle": "Une démarche claire, du premier échange à la remise finale",
+    "process": {
+      "step1": {
+        "title": "Prise de contact",
+        "text": "Nous échangeons sur votre projet, vos envies et vos contraintes."
+      },
+      "step2": {
+        "title": "Préparation",
+        "text": "Repérage, moodboard, planning et validation de la direction artistique."
+      },
+      "step3": {
+        "title": "Séance photo",
+        "text": "Le jour J, je capture chaque instant avec précision et bienveillance."
+      },
+      "step4": {
+        "title": "Livraison",
+        "text": "Sélection, retouche haut de gamme et remise via galerie privée."
+      }
+    },
+    "packages": {
+      "portrait": {
+        "name": "Portrait",
+        "price": "À partir de 80 000 FCFA",
+        "duration": "1h – 2h",
+        "features": [
+          "Séance en studio ou extérieur",
+          "20 photos retouchées HD",
+          "Galerie privée en ligne",
+          "Livraison sous 7 jours"
+        ]
+      },
+      "mariage": {
+        "name": "Mariage",
+        "price": "À partir de 450 000 FCFA",
+        "duration": "Journée complète",
+        "features": [
+          "Couverture cérémonie & réception",
+          "150+ photos retouchées HD",
+          "Album photo premium (optionnel)",
+          "Galerie privée + clé USB",
+          "Livraison sous 3 semaines"
+        ],
+        "featured": true
+      },
+      "corporate": {
+        "name": "Corporate",
+        "price": "Sur devis",
+        "duration": "Selon besoin",
+        "features": [
+          "Portraits d'équipe",
+          "Reportage événementiel",
+          "Photos produits & locaux",
+          "Droits d'usage commerciaux inclus"
+        ]
+      }
+    }
+  },
+  "about": {
+    "title": "À Propos",
+    "subtitle": "L'œil derrière l'objectif",
+    "intro": "Photographe passionné basé à Cotonou, je transforme chaque instant en souvenir intemporel. De la mode au mariage, en passant par le corporate et le portrait, mon travail explore la lumière, l'émotion et l'authenticité.",
+    "journey_title": "Mon parcours",
+    "journey_text": "Depuis plus de 8 ans, je collabore avec des marques, des créateurs et des particuliers exigeants. Chaque projet est une nouvelle histoire à raconter, une esthétique à construire, une émotion à figer.",
+    "values_title": "Mes valeurs",
+    "values": {
+      "vision": {
+        "title": "Vision",
+        "text": "Une direction artistique claire pour chaque projet."
+      },
+      "excellence": {
+        "title": "Excellence",
+        "text": "Un rendu haut de gamme, jusque dans les moindres détails."
+      },
+      "ecoute": {
+        "title": "Écoute",
+        "text": "Comprendre votre univers avant de le sublimer."
+      },
+      "engagement": {
+        "title": "Engagement",
+        "text": "Une présence rigoureuse du brief à la livraison finale."
+      }
+    },
+    "experience": "Années d'expérience",
+    "awards": "Prix & Publications",
+    "shoots": "Projets réalisés",
+    "cta_title": "Travaillons ensemble",
+    "cta_text": "Un projet, une idée, une envie d'image ? Parlons-en."
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Discutons de votre projet",
+    "intro": "Un événement, une séance, une collaboration ? Remplissez le formulaire ou contactez-moi directement.",
+    "form": {
+      "name": "Nom complet",
+      "email": "Adresse email",
+      "phone": "Téléphone (optionnel)",
+      "service": "Type de prestation",
+      "message": "Décrivez votre projet...",
+      "send": "Envoyer le message",
+      "sending": "Envoi en cours...",
+      "success": "Message envoyé, merci ! Je reviens vers vous rapidement.",
+      "error": "Une erreur est survenue. Réessayez ou écrivez-moi par email.",
+      "select_service": "— Choisir —",
+      "options": {
+        "mariage": "Mariage",
+        "portrait": "Portrait",
+        "mode": "Mode / Éditorial",
+        "corporate": "Corporate / Entreprise",
+        "evenement": "Événement",
+        "autre": "Autre"
+      }
+    },
+    "info": {
+      "location_title": "Localisation",
+      "location": "Cotonou, Bénin",
+      "email_title": "Email",
+      "phone_title": "Téléphone",
+      "hours_title": "Disponibilité",
+      "hours": "Lun. — Sam. · 9h — 19h"
+    },
+    "social_title": "Sur les réseaux"
+  },
+  "footer": {
+    "rights": "Tous droits réservés.",
+    "designed_with": "Portfolio d'Art"
+  }
+}
